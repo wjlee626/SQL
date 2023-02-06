@@ -1,1 +1,1 @@
-SQL 관련 오픈소스
+SQL 관련 오픈소스 대표적으로 MYSQL이 있고 MARIA DB가 있다.
